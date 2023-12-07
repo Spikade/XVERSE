@@ -268,47 +268,47 @@ body {
 }
 
 .swiper-slide:nth-child(1n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url('/assets/images/wp8936520-jujutsu-kaisen-poster-wallpapers.jpg')
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url('https://raw.githubusercontent.com/Spikade/XVERSE/main/assets/images/wp8936520-jujutsu-kaisen-poster-wallpapers.jpg')
       no-repeat 50% 50% / cover;
 }
 
 .swiper-slide:nth-child(2n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("/assets/images/wp12247322-chainsaw-man-poster-wallpapers.png")
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://raw.githubusercontent.com/Spikade/XVERSE/main/assets/images/wp12247322-chainsaw-man-poster-wallpapers.png")
       no-repeat 50% 50% / cover;
 }
 
 .swiper-slide:nth-child(3n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("/assets/images/wp8326482-attack-on-titan-poster-wallpapers.jpg")
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://raw.githubusercontent.com/Spikade/XVERSE/main/assets/images/wp8326482-attack-on-titan-poster-wallpapers.jpg")
       no-repeat 50% 0% / cover;
 }
 
 .swiper-slide:nth-child(4n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("/assets/images/wp8840613-naruto-poster-wallpapers.png")
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://raw.githubusercontent.com/Spikade/XVERSE/main/assets/images/wp8840621-naruto-poster-wallpapers.jpg")
       no-repeat 50% 50% / cover;
 }
 
 .swiper-slide:nth-child(5n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("/assets/images/wp6031045-anime-poster-wallpapers.jpg")
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://raw.githubusercontent.com/Spikade/XVERSE/main/assets/images/wp6031045-anime-poster-wallpapers.jpg")
       no-repeat 50% 50% / cover;
 }
 
 .swiper-slide:nth-child(6n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("/assets/images/wp11386810-poster-one-piece-2023-wallpapers.png")
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://raw.githubusercontent.com/Spikade/XVERSE/main/assets/images/wp12078998-poster-one-piece-2023-wallpapers.jpg")
       no-repeat 50% 50% / cover;
 }
 
 .swiper-slide:nth-child(7n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("/assets/images/wp9122309-death-note-poster-wallpapers.jpg")
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://raw.githubusercontent.com/Spikade/XVERSE/main/assets/images/wp9122309-death-note-poster-wallpapers.jpg")
       no-repeat 50% 50% / cover;
 }
 
 .swiper-slide:nth-child(8n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("/assets/images/wp10304828-tokyo-revengers-iphone-4k-wallpapers.jpg")
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://raw.githubusercontent.com/Spikade/XVERSE/main/assets/images/wp10304828-tokyo-revengers-iphone-4k-wallpapers.jpg")
       no-repeat 50% 0% / cover;
 }
 
 .swiper-slide:nth-child(9n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("/assets/images/wp10228869-one-punch-man-poster-wallpapers.jpg")
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://raw.githubusercontent.com/Spikade/XVERSE/main/assets/images/wp10228869-one-punch-man-poster-wallpapers.jpg")
       no-repeat 50% 50% / cover;
 }
 
